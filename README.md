@@ -19,7 +19,7 @@ Java Swing으로 구현한 Stand Alone Game입니다.
 ### 소개영상
 ***
 
-[![Video Label](http://img.youtube.com/vi/F6uuq8EpN8c/0.jpg)](https://www.youtube.com/watch?v=F6uuq8EpN8c&t=0s)
+  [![Video Label](http://img.youtube.com/vi/F6uuq8EpN8c/0.jpg)](https://www.youtube.com/watch?v=F6uuq8EpN8c&t=0s)
 
 
 <br><br>
